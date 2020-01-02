@@ -7,12 +7,12 @@ https://medium.com/analytics-vidhya/gan-an-imaginative-tool-into-reality-d8fa46a
 
 2. GPU related articles
 
-2.1 https://medium.com/analytics-vidhya/crux-of-gpu-28fe7d37dd28
+  2.1 https://medium.com/analytics-vidhya/crux-of-gpu-28fe7d37dd28
 
-2.2 https://medium.com/analytics-vidhya/gpu-on-keras-and-tensorflow-357d629fb7e2
+  2.2 https://medium.com/analytics-vidhya/gpu-on-keras-and-tensorflow-357d629fb7e2
 
-2.3 https://medium.com/analytics-vidhya/explained-output-of-nvidia-smi-utility-fc4fbee3b124
-
+  2.3 https://medium.com/analytics-vidhya/explained-output-of-nvidia-smi-utility-fc4fbee3b124
+  
 3. Swagger in Python- API documentation and testing
 
 https://medium.com/@shachikaul35/intuitive-understanding-of-swagger-in-python-part-i-7ca856769e32
