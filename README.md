@@ -16,3 +16,10 @@ https://medium.com/analytics-vidhya/gan-an-imaginative-tool-into-reality-d8fa46a
 3. Swagger in Python- API documentation and testing 
 
 https://medium.com/@shachikaul35/intuitive-understanding-of-swagger-in-python-part-i-7ca856769e32
+
+4. Convolutional Neural Networks
+
+https://medium.com/@shachikaul35/complete-guide-about-cnns-part-1-65bdfee3cae3
+
+
+
