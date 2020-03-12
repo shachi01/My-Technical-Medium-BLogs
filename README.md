@@ -21,5 +21,7 @@ https://medium.com/@shachikaul35/intuitive-understanding-of-swagger-in-python-pa
 
 https://medium.com/@shachikaul35/complete-guide-about-cnns-part-1-65bdfee3cae3
 
+5. Gradient Descent Problems and Solutions
+https://medium.com/@shachikaul35/gradient-descent-problems-and-solutions-in-deep-learning-8002bbac09d5
 
 
