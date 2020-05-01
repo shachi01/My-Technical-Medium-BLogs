@@ -24,4 +24,8 @@ https://medium.com/@shachikaul35/complete-guide-about-cnns-part-1-65bdfee3cae3
 5. Gradient Descent Problems and Solutions
 https://medium.com/@shachikaul35/gradient-descent-problems-and-solutions-in-deep-learning-8002bbac09d5
 
+6. Data Shapley to analyse your model quality
+https://medium.com/analytics-vidhya/data-shapley-qualitative-analytical-tool-for-ml-ai-e48c934cedd6
 
+7. Cross-Validation 
+https://medium.com/analytics-vidhya/deeply-explained-cross-validation-in-ml-ai-2e846a83f6ed
