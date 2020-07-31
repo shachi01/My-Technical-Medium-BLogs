@@ -29,3 +29,19 @@ https://medium.com/analytics-vidhya/data-shapley-qualitative-analytical-tool-for
 
 7. Cross-Validation 
 https://medium.com/analytics-vidhya/deeply-explained-cross-validation-in-ml-ai-2e846a83f6ed
+
+8. Dask for Python and Machine Learning
+https://medium.com/@shachikaul35/dask-for-python-and-machine-learning-dbe1356b5d7a
+
+9. Optimized ways to Read Large CSVs in Python
+https://medium.com/analytics-vidhya/optimized-ways-to-read-large-csvs-in-python-ab2b36a7914e
+
+10. Model Selection Techniques in ML/AI with Python
+https://medium.com/analytics-vidhya/model-selection-techniques-in-ml-ai-with-python-fdf308d9fa10
+
+11.Probabilistic Model Selection with AIC/BIC in Python
+https://medium.com/analytics-vidhya/probabilistic-model-selection-with-aic-bic-in-python-f8471d6add32
+
+12. Data Fetching: From Kaggle to Google Colab
+https://medium.com/analytics-vidhya/data-fetching-from-kaggle-to-google-colab-692337203b2d
+
